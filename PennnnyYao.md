@@ -10,4 +10,4 @@ Outside of study, I enjoy photography and trying new cafés, and I'm based in Lo
 - 💡 Interested in: web design, UI/UX and digital art
 - 🎯 Goal this term: build and publish my first personal website
 
-You can find out more about writing Markdown in the [GitHub Markdwon guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+You can find out more about writing Markdown in the [GitHub Markdown guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
